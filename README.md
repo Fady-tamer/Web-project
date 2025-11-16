@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="img/project logo.png" width="200px"/>
-</p>
+<div style="text-align:center">
+  <img src="img/project%20logo.png" width="200" alt="project logo" />
+</div>
 
 ## About
 Project about apartment Rentals/Real Estate Marketplace
