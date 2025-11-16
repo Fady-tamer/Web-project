@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Fady-tamer/Web-project/blob/main/img/project%20Logo.png" width="500px"/>
-</p>
+<div align=center>
+  <img src="https://github.com/Fady-tamer/Rentals-project/blob/main/img/project%20Logo.png" width="700" alt="project logo" />
+</div>
 
 ## About
 Project about apartment Rentals/Real Estate Marketplace
